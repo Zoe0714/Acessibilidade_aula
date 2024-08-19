@@ -1,5 +1,5 @@
 .rodape {
-  background-color: #3b9cfd;
+  background-color: #333;
   text-align: center;
 }
 
@@ -14,7 +14,7 @@
 .rodape-social-link {
   width: 42px;
   height: 42px;
-  border: 1px solid #000000;
+  border: 1px solid #fff;
   margin: 0 10px;
   text-indent: -999px;
   overflow: hidden;

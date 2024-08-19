@@ -1,7 +1,7 @@
 
 .secaoPlanos {
   text-align: center;
-  background-color: #e4af86;
+  background-color: #F7F4F4;
 }
 
 .secaoPlanos-plano {
@@ -17,15 +17,15 @@
 }
 
 .secaoPlanos-plano--start {
-  color: #47ee9e;
+  color: #56CCF2;
 }
 
 .secaoPlanos-plano--ultra {
-  color: #d94c9a;
+  color: #B04CD9;
 }
 
 .secaoPlanos-plano--mega {
-  color: #aa50cb;
+  color: #E33B3B;
 }
 
 .secaoPlanos-plano-titulo {
@@ -63,7 +63,7 @@
   padding-left: 30px;
   margin: 1em auto 1.5em auto;
   line-height: 2;
-  list-style: disc;
+  list-style: none;
   color: #666;
   width: 240px;
 }
