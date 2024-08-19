@@ -1,7 +1,7 @@
 
 .secaoPlanos {
   text-align: center;
-  background-color: #F7F4F4;
+  background-color: #ffa743;
 }
 
 .secaoPlanos-plano {
@@ -17,15 +17,15 @@
 }
 
 .secaoPlanos-plano--start {
-  color: #56CCF2;
+  color: #41ffbd;
 }
 
 .secaoPlanos-plano--ultra {
-  color: #B04CD9;
+  color: #ff4ad5;
 }
 
 .secaoPlanos-plano--mega {
-  color: #E33B3B;
+  color: #4b5aff;
 }
 
 .secaoPlanos-plano-titulo {
